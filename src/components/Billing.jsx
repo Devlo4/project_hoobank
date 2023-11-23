@@ -14,13 +14,11 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+      Contrôlez facilement votre <br className="sm:block hidden" /> facturation &
+        facturation
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+      Grâce à notre expertise unique, nous sommes en mesure de vous offrir des solutions personnalisées adaptées à vos besoins. Que vous souhaitiez prendre une décision éclairée, optimiser vos opérations ou booster votre productivité, notre équipe expérimentée vous accompagne à chaque étape clé. Bénéficiez de conseils sur-mesure de professionnels certifiés pour atteindre vos objectifs et décupler vos résultats.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
